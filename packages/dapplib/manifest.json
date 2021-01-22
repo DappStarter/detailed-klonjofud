@@ -1,0 +1,16 @@
+{
+    "name": "test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "sol_btc",
+        "/category/asset_value_tracking/token/symbol": "sbtc",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "28",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/collection/entity": true
+    }
+}
